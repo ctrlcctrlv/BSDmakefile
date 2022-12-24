@@ -1,0 +1,12 @@
+#!/usr/bin/env make
+# NOTE: This Makefile must remain compatible with BSD’s `make`!
+# The file `GNUmakefile` makes testing this easier on GNU/Linux.
+
+SHELL=/bin/sh
+
+myrecipe:
+	$(DOBEFORE) && (\
+		# ...
+	)
+
+.include <mk/before.mk>
