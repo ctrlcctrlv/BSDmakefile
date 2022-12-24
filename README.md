@@ -48,6 +48,10 @@ all:
 	# …
 ```
 
+## Full project example
+
+I got this idea while working on [yeslogic/glyph-names№3](https://github.com/yeslogic/glyph-names/pull/3) and added `BSDmakefile` to that project in [yeslogic/glyph-names№2](https://github.com/yeslogic/glyph-names/pull/2).
+
 ## LICENSE
 
 ```plain
